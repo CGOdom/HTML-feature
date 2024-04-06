@@ -1,5 +1,5 @@
 html {
-    font size: 20px;
+    font-size: 20px;
 }
 body {
     min-width: 400px;
@@ -20,6 +20,22 @@ body {
 
 .phone-model {
     margin: 1rem 2rem;
+}
+
+.phone-img {
+    border-radius: 25px;
+}
+
+.phone-img:hover {
+    transform: scale(1.05);
+    transition-duration: 0.2s;
+}
+
+.buy-container {
+    margin: 2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 /* tagline section */
@@ -68,6 +84,16 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
+    color: white;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+        url(./Images/Tropical\ Phone\ -\ Lux\ -\ Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+
+
 }
 
 /* footer */
