@@ -106,9 +106,8 @@ body {
     margin: 3rem auto;
 }
 
-@media screenn and (min-width: 768px) {
+@media screen and (min-width: 768px) {
     .footer-link-list {
         flex-direction: row;
-
     }
 }
