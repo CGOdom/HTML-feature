@@ -1,6 +1,6 @@
-# Cell Phone Webshop
+# Practice Cell Phone Webshop
 
-Hosting link: https://cgodom.github.io/HTML-feature/
+Hosting link: https://cgodom.github.io/Plush-Phone-Practice/
 
 ## User Stories
 
